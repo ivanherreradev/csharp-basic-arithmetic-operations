@@ -1,0 +1,14 @@
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\bin\Debug\net8.0\csharp-basic-arithmetic-operations.exe
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\bin\Debug\net8.0\csharp-basic-arithmetic-operations.deps.json
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\bin\Debug\net8.0\csharp-basic-arithmetic-operations.runtimeconfig.json
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\bin\Debug\net8.0\csharp-basic-arithmetic-operations.dll
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\bin\Debug\net8.0\csharp-basic-arithmetic-operations.pdb
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\obj\Debug\net8.0\csharp-basic-arithmetic-operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\obj\Debug\net8.0\csharp-basic-arithmetic-operations.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\obj\Debug\net8.0\csharp-basic-arithmetic-operations.AssemblyInfo.cs
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\obj\Debug\net8.0\csharp-basic-arithmetic-operations.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\obj\Debug\net8.0\csharp-basic-arithmetic-operations.dll
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\obj\Debug\net8.0\refint\csharp-basic-arithmetic-operations.dll
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\obj\Debug\net8.0\csharp-basic-arithmetic-operations.pdb
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\obj\Debug\net8.0\csharp-basic-arithmetic-operations.genruntimeconfig.cache
+C:\Users\Usuario\Documents\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\csharp-basic-arithmetic-operations\obj\Debug\net8.0\ref\csharp-basic-arithmetic-operations.dll
